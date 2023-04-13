@@ -12,7 +12,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-- Etape 1 : ...  
+- Etape 1 : 
 - Etape 2 : ...
 ```
 
